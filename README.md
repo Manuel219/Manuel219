@@ -1,7 +1,4 @@
 ## Hi there 👋, Welcome!
-
-<!--
-**Manuel219/Manuel219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="1584" height="396" alt="Blue Modern Cybersecurity Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/a9e325ef-a42b-4539-9d4b-285d392f9e32" />
 
 
