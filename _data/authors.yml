@@ -6,6 +6,9 @@ Emmanuel Obodoechina:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "emmanuelobodoechina@outlook.com"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "+353899898973"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/obodoechina-emmanuel/"
@@ -15,4 +18,3 @@ Emmanuel Obodoechina:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.emmanuelobodoechina.me"
- 
