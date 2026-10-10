@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Emmanuel Obodoechina
+author_profile: true
 ---
 # Hi! I'm Emmanuel Obodoechina
 

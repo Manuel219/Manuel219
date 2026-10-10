@@ -1,0 +1,18 @@
+Emmanuel Obodoechina:
+  name        : "Emmanuel Obodoechina"
+  bio         : "You can Reach out via the links below."
+  avatar      : "/assets/images/IMG_2631.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "emmanuelobodoechina@outlook.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/obodoechina-emmanuel/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Manuel219"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.emmanuelobodoechina.me"
+ 
