@@ -18,4 +18,14 @@ description: This is an article about Training and Development performed every y
 ## Introduction
 One of the most fulfilling parts of my role has been mentoring individuals looking to build a future in technology. These experiences have allowed me to share my knowledge, support others in their professional development, and strengthen my own communication and leadership skills.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7335545058617700352" height="1090" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7335545058617700352" height="1090" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
+
+<div style="position: relative; width: 100%; max-width: 504px; margin: 0 auto;">
+  <iframe
+    src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7335545058617700352"
+    style="width: 100%; height: 1090px; border: 0;"
+    frameborder="0"
+    allowfullscreen
+    title="Embedded LinkedIn post">
+  </iframe>
+</div>
