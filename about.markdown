@@ -19,11 +19,21 @@ I am passionate about solving complex technical problems, understanding emerging
 
 I am currently seeking opportunities that will allow me to apply my technical expertise and industry knowledge, take on new challenges, and continue growing as a **network security professional**, while making a meaningful contribution to protecting organizations against evolving cyber threats.
 
+<a href="/assets/files/Manuel_Obodoechina.pdf" target="_blank"><strong>Click here for my resume</strong></a>
+
 ## My Skills
-### Technical Skills
-
-{% include technicalskills.md %}
-
-### Soft Skills
-
-{% include softskills.md %}
+<table id="skills_table">
+    <thead>
+        <tr>
+            <th>Development</th>
+            <th>Networking</th>
+            <th>Cybersecurity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{% include softskills.md %}</td>
+            <td>{% include technicalskills.md %}</td>
+        </tr>
+    </tbody>
+</table>

@@ -4,8 +4,6 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Career Progress & Training" }}</h3>
-
 {% if paginator %}
     {% assign posts = paginator.posts %}
 {% else %}
@@ -13,13 +11,16 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Training & Development"
+    }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-        {% if post.highlight_home and post.categories contains "work" %}
-        {% include archive-single.html type=entries_layout %}
-        {% endif %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains "Training & Development"%}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
     {% endfor %}
 </div>
+
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Cybersecurity" }}</h3>
 <div class="entries-{{ entries_layout }}">

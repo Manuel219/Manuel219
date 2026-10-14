@@ -1,6 +1,6 @@
-| Skill |
-| ---- | ---- |
+<table>
 {%assign skills = site.data.skills.soft | sort: "title" -%}
-{% for skill in skills -%}
-| {{skill.title}} |
+{% for skill in skills %}
+<tr><td class={{skill.level}}>{{skill.title}}</td></tr>
 {% endfor %}
+</table>

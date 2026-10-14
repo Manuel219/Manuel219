@@ -1,10 +1,10 @@
 ---
 layout: posts
-title:  "My Training & Development Program"
+title:  "Mentoring & Professional Development"
 date:   2026-10-09 17:59:56 +0000
 categories: [work]
 highlight_home: true
-tagline: "Training for my students"
+tagline: "Empowering others to grow, learn, and build their future in tech"
 tags: ["Training & Development"]
 author_profile: true
 author: Emmanuel Obodoechina
@@ -15,4 +15,7 @@ header:
 description: This is an article about Training and Development performed every year for students in irish colleges and some from european union through Eramus.
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7335545058617700352?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+## Introduction
+One of the most fulfilling parts of my role has been mentoring individuals looking to build a future in technology. These experiences have allowed me to share my knowledge, support others in their professional development, and strengthen my own communication and leadership skills.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7335545058617700352" height="1090" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

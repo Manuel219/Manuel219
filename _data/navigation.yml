@@ -6,7 +6,5 @@ main:
     url: "/mywork"
   - title: "Certifications"
     url: "/certs"
-  - title: "My CV"
-    url: "/resume"
   - title: "About Me"
     url: "/about"
