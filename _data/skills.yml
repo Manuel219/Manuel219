@@ -14,6 +14,8 @@ technical:
     level: Advanced
   - title: Penetration Testing
     level: Advanced
+  - title: Docker and Containerization
+    level: Advanced
 
 soft:
  - title: Documentation

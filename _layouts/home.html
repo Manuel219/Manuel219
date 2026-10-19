@@ -21,19 +21,28 @@ layout: archive
     {% endfor %}
 </div>
 
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Cybersecurity" }}</h3>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Cybersecurity" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'certs' %}
+    {% if post.highlight_home and post.categories contains 'Cyber' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
-</div>
+</div> -->
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Projects" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
     {% if post.highlight_home and post.categories contains 'article' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Cybersecurity" }}
+</h3>
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains 'Cybersecurity' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
