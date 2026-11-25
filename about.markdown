@@ -13,7 +13,7 @@ Motivated by this curiosity, I studied **Computer Networks and Security at Birmi
 
 Beyond my technical work, I am passionate about **knowledge sharing, teaching, and mentoring**. I have trained students and interns in my workplace, sharing practical knowledge about networking, cybersecurity, and resources to support their professional development. Helping others build their skills and confidence is something I find genuinely rewarding.
 
-My dedication to continuous learning and practical experience has contributed to my progression into a **Network and Security Analyst** role. I hold the **CCNA, CompTIA A+, Security+, and CySA+ certifications**, and I am currently studying towards further penetration testing and ethical hacking qualifications, including CEH, to expand my cybersecurity expertise.
+My dedication to continuous learning and practical experience has contributed to my progression into a **Network and Security Analyst** role. I hold the **CCNA, CompTIA A+, Security+, Pentest+ and CySA+ certifications**, and I am currently studying towards further penetration testing and ethical hacking qualifications, including CEH, to expand my cybersecurity expertise.
 
 I am passionate about solving complex technical problems, understanding emerging cyber threats, and helping organizations maintain secure and reliable IT environments. I believe continuous learning is essential in an industry that evolves as rapidly as cybersecurity.
 
@@ -34,6 +34,7 @@ I am currently seeking opportunities that will allow me to apply my technical ex
         <tr>
             <td>{% include softskills.md %}</td>
             <td>{% include technicalskills.md %}</td>
+            <td>{% include security.md %}</td>
         </tr>
     </tbody>
 </table>

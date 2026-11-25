@@ -6,13 +6,10 @@ technical:
     level: Intermediate
   - title: Email Security (Mimecast)
     level: Advanced
-  - title: Vulnerability Management
-    level: Advanced
   - title: Microsoft 365
     level: Advanced
   - title: Microsoft Intune and Active Directory
     level: Advanced
-  - title: Penetration Testing
     level: Advanced
   - title: Docker and Containerization
     level: Advanced
@@ -25,3 +22,12 @@ soft:
  - title: Training & Mentoring 
    level: Intermediate
    
+security:
+  - title: Nessus Vulnerability Scanner
+    level: Advanced
+  - title: Microsoft Defender & Sentinel
+    level: Advanced
+  - title: Penteration Testing
+    level: Advanced
+  - title: Patch Management
+    level: Advanced
