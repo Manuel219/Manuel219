@@ -14,3 +14,5 @@ These are the certifications I have earned throughout my career. Feel free to re
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed4f303c-b7c2-40ad-99de-985fd725313b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f384e11c-9b5d-444c-b7e8-e719219bd522" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="011457c9-feb9-4702-9eaf-598bbce13958" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
